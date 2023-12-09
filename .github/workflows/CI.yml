@@ -10,13 +10,13 @@ on:
 
 jobs:
   validation:
-    uses: microsoft/action-python/.github/workflows/validation.yml@0.6.4
+    uses: microsoft/action-python/.github/workflows/validation.yml@0.7.2
     with:
       python-version: 3.11.7
       workdir: '.'
 
   publish:
-    uses: microsoft/action-python/.github/workflows/publish.yml@0.6.4
+    uses: microsoft/action-python/.github/workflows/publish.yml@0.7.2
     with:
       python-version: 3.11.7
     secrets:
