@@ -1,10 +1,10 @@
-python\_package.hello\_world package
+codeworks.hello\_world package
 ====================================
 
 Submodules
 ----------
 
-python\_package.hello\_world.hello\_world module
+codeworks.hello\_world.hello\_world module
 ------------------------------------------------
 
 .. automodule:: codeworks.hello_world.hello_world

@@ -1,4 +1,4 @@
-python\_package package
+codeworks package
 =======================
 
 Subpackages
@@ -12,7 +12,7 @@ Subpackages
 Submodules
 ----------
 
-python\_package.setup module
+codeworks.setup module
 ----------------------------
 
 .. automodule:: codeworks.setup

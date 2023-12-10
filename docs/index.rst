@@ -6,10 +6,15 @@
 Welcome to ai-python docs's documentation!
 ==========================================
 
+
+Contents
+========
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+
    modules
+   notebooks/index
 
 
 Indices and tables
